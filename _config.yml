@@ -1,4 +1,3 @@
-layout_spectrum: 0.1055009940173477
 typography_spectrum: 0.4181374430190772
 color:
   brandStrength: 0.031869128812104464
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.1055009940173477
 name: The Flavor Trip
+description: Take Your Mouth on a Journey
