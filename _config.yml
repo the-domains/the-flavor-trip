@@ -11,9 +11,14 @@ color:
     - '#FFE11A'
     - '#FD7400'
 layout_spectrum: 0.1055009940173477
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c368e183-6f0c-492a-b11d-cd3c4e46ff78.png
 name: The Flavor Trip
 navigation:
   - name: About Us
     id: fd61e419-424a-4a38-82e6-ab67421049c1
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/907c0895-195d-47be-927f-5ce0dca98c69.jpg
+title: Take Your Mouth on a Flavor Trip
 description: Take Your Mouth on a Journey
