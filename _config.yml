@@ -12,4 +12,8 @@ color:
     - '#FD7400'
 layout_spectrum: 0.1055009940173477
 name: The Flavor Trip
+navigation:
+  - name: About Us
+    id: fd61e419-424a-4a38-82e6-ab67421049c1
+    type: content
 description: Take Your Mouth on a Journey
