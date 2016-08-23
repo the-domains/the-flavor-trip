@@ -7,19 +7,18 @@ description: >-
   taste buds on a flavor trip, or booking a flight to Jamaica to enjoy the
   beautiful beaches, lush mountainous scenery while enjoying some authentic
   Jamaican jerk chicken.
-dateModified: '2016-08-23T21:01:51.465Z'
-datePublished: '2016-08-23T21:03:05.262Z'
+dateModified: '2016-08-23T21:03:37.578Z'
+datePublished: '2016-08-23T21:03:37.866Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-23-we-are-what-we-eat-so-we-like-to-eat-the-good-things-in-lif.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: we-are-what-we-eat-so-we-like-to-eat-the-good-things-in-lif/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e598ba97-da19-4b29-a521-1f72779c008a.png)
