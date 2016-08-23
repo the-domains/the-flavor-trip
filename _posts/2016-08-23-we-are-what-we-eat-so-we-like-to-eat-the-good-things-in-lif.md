@@ -1,4 +1,13 @@
 ---
+datePublished: '2016-08-23T21:14:16.909Z'
+sourcePath: >-
+  _posts/2016-08-23-we-are-what-we-eat-so-we-like-to-eat-the-good-things-in-lif.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T21:14:16.611Z'
+title: ''
+publisher: {}
 description: >-
   We are what we eat, so we like to eat the good things in life. We eat to live,
   so we like to live the good life. We like to explore life and transform the
@@ -7,15 +16,6 @@ description: >-
   taste buds on a flavor trip, or booking a flight to Jamaica to enjoy the
   beautiful beaches, lush mountainous scenery while enjoying some authentic
   Jamaican jerk chicken.
-dateModified: '2016-08-23T21:03:37.578Z'
-datePublished: '2016-08-23T21:03:37.866Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-sourcePath: >-
-  _posts/2016-08-23-we-are-what-we-eat-so-we-like-to-eat-the-good-things-in-lif.md
-hasPage: true
 starred: false
 url: we-are-what-we-eat-so-we-like-to-eat-the-good-things-in-lif/index.html
 _type: Blurb
