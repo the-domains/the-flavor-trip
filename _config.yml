@@ -1,16 +1,16 @@
-typography_spectrum: 0.4181374430190772
+layout_spectrum: 0.9696862341370434
+typography_spectrum: 0.4455665189307183
 color:
-  brandStrength: 0.031869128812104464
-  lightness: 0.5571831511333585
-  saturation: 0.8682990830857307
-  rhythmicContrast: 0.3522528079338372
+  brandStrength: 0.6530054365284741
+  lightness: 0.7103842233773321
+  saturation: 0.20348192797973752
+  rhythmicContrast: 0.8668619394302368
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-layout_spectrum: 0.1055009940173477
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c368e183-6f0c-492a-b11d-cd3c4e46ff78.png
 name: The Flavor Trip
