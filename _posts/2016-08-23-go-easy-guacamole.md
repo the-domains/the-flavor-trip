@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-23T21:23:15.227Z'
+datePublished: '2016-08-24T01:26:41.492Z'
+sourcePath: _posts/2016-08-23-go-easy-guacamole.md
 author: []
 via: {}
-dateModified: '2016-08-23T21:23:13.015Z'
+dateModified: '2016-08-24T01:19:00.034Z'
 title: Go Easy Guacamole
 publisher: {}
 description: INGREDIENTS
 starred: false
-sourcePath: _posts/2016-08-23-go-easy-guacamole.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -30,7 +30,7 @@ Pepper, to taste
 2 tablespoons fresh cilantro leaves chopped  
 1 clove garlic, minced
 
-To change it up a little and add some spice, substitute the 1 medium tomato with a can of Rotel (drained). I like the hot kind but you can use the mild if your heat tolerance is less.
+_To change it up a little and add some spice, substitute the 1 medium tomato with a can of Rotel (drained). I like the hot kind but you can use the mild if your heat tolerance is less._
 
 INSTRUCTIONS
 
